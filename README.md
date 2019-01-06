@@ -1,3 +1,5 @@
+Screenshot 2019-01-06 at 7.30.05 PM
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
