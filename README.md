@@ -1,4 +1,3 @@
-Screenshot 2019-01-06 at 7.30.05 PM
 
 # MyApp
 
