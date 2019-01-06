@@ -1,0 +1,19 @@
+<div class="grid-container">
+    <mat-grid-list cols="2" class="border-box" rowHeight="100px">
+   <form (ngSubmit)="onSubmit()"> 
+      <mat-grid-tile >
+          <input type="file" (change)="onSelectFile($event)" > 
+        </mat-grid-tile>
+        <mat-grid-tile > <button mat-raised-button type="submit" color="primary">Upload</button></mat-grid-tile>
+   </form>
+    </mat-grid-list>
+    <br>
+    <mat-grid-list cols="2" >
+        <mat-card class="example-card">
+            <img [src]="fileUpload.filePath" height="100px"/>
+          </mat-card>
+    </mat-grid-list>
+   
+  
+  
+  </div>

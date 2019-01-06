@@ -1,0 +1,15 @@
+<div class="grid-container">
+    
+    <h2>Images Gallery</h2>
+    <hr>
+ 
+  <br>
+  <mat-grid-list cols="2">
+          <div class="float-right" *ngFor="let imgurl of images">
+            <img [src]="imgurl.filePath" height="100px"/>
+          </div>
+  </mat-grid-list>
+ <br>
+
+
+</div>
