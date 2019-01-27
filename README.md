@@ -1,4 +1,4 @@
-![alt text](https://user-images.githubusercontent.com/16487240/50739285-e48a9500-1203-11e9-9a82-476dde3cac3e.png)
+
 
 # MyApp
 
